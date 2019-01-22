@@ -6,5 +6,10 @@ function add(a, b){
 var number;
 function subtract(a, b){
   number = a - b;
-  return number
+  return number;
+}
+var number;
+function multiply(a, b){
+  number = a * b;
+  return number;
 }
